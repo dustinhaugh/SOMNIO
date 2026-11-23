@@ -1,0 +1,688 @@
+# app_vineyard/tasks.txt
+# Property Task List
+# Last regenerated: 2026-05-06
+
+TASK STATUS LEGEND
+- [NOW] urgent / next available work window
+- [SOON] important within 1-2 weeks
+- [LATER] useful but not urgent
+- [WAIT] blocked by missing information or dependency
+- [DONE] completed
+
+CURRENT MANAGEMENT DECISION
+Recommended current profit path:
+- Do not diversify heavily yet.
+- Protect the vineyard and water system first.
+- Use the $25,000 investment budget primarily for irrigation reliability, filtration, vineyard uniformity, and records.
+- Do not add another controller or extra zones until flow/pressure/block performance proves it is necessary.
+- Treat greenhouse/chickens as small secondary systems for now.
+- Treat the home as the asset-value anchor and avoid deferred maintenance.
+
+RECOMMENDED $25,000 CAPITAL PRIORITY ORDER
+1. Canal irrigation filtration/integration and pump test readiness.
+2. Pressure gauges, valves, backflow/isolation, fittings, and manifold reliability.
+3. Vineyard weak-spot correction: emitter repairs, tubing repairs, replants, soil testing, targeted amendments.
+4. Minimal recordkeeping/tooling/storage improvements that reduce lost time.
+5. Reserve fund for pump/plumbing/vineyard failures during the season.
+6. Only after the above: consider small revenue experiments.
+
+Suggested rough capital allocation target:
+- $8,000-$12,000: irrigation completion, filtration, valves, gauges, fittings, electrical/plumbing corrections.
+- $2,000-$4,000: vineyard inputs, replacement vines, soil tests, fertigation/amendments, trellis repairs.
+- $2,000-$4,000: equipment maintenance, fuel, implement wear parts, ACS upkeep.
+- $1,000-$2,000: recordkeeping, storage, small tools, parts bins, irrigation repair inventory.
+- $5,000-$10,000: reserve. Do not spend this unless the irrigation/vineyard system needs it.
+
+TODAY / NEXT AVAILABLE EVENING TASKS
+[NOW] Build a written Rachio irrigation zone map.
+- List all 8 currently set-up zones.
+- Mark which 7 are used.
+- Identify the 3 vineyard zones and their 0.68-acre blocks.
+- For each zone, record current runtime, water source, and pressure if known.
+- Do not add more zones until current zones are mapped and tested.
+
+[NOW] Inspect the three vineyard irrigation blocks during or after a run.
+- Confirm each block received water.
+- Check representative emitters at beginning/middle/end.
+- Look for pressure weakness, clogged emitters, broken line, puddling, dry areas, and uneven vigor.
+- Record whether each block looks Good / Fair / Poor.
+
+[NOW] Prepare sand filter installation plan.
+- Photograph the sand filter.
+- Record brand/model/pipe size/flow rating if visible.
+- Identify inlet/outlet/backwash/drain requirements.
+- Determine what fittings/valves are missing.
+- Do not feed canal water into dripline until filtration is installed and flushed.
+
+[NOW] Prepare for canal pump test.
+- Confirm pump is primed or prime-able.
+- Confirm valves are positioned safely.
+- Confirm discharge path will not flood, erode, or dead-head the pump.
+- Confirm electrical disconnect/breaker access.
+- Do not leave pump unattended during first test.
+
+HIGH PRIORITY INFRASTRUCTURE TASKS
+[SOON] Install the sand filter before canal irrigation is used for vineyard drip.
+- This is a high priority.
+- Canal water should be filtered before it reaches drip irrigation.
+- Install with enough valves/unions to allow service, backwash, and winterization.
+
+[SOON] Add or verify pressure gauges.
+- Pump discharge.
+- Before filter.
+- After filter.
+- Vineyard manifold or representative drip zone.
+- Pressure drop across the filter will help identify clogging and backwash timing.
+
+[SOON] Perform first canal pump test.
+Suggested test record:
+- Date/time.
+- Canal water available? yes/no.
+- Pump starts? yes/no.
+- Prime holds? yes/no.
+- Flow estimate.
+- Pressure reading.
+- Any leaks, vibration, overheating, breaker trips, odd noise.
+- Where water discharged.
+- Duration of test.
+- Photos/video.
+
+[SOON] Create canal-to-irrigation integration sketch.
+- Draw canal source, pump, sand filter, pressure regulation, valves, well tie-in, Rachio-controlled valves, and zones.
+- Identify where backflow prevention or isolation is needed between well and canal systems.
+
+[WAIT] Decide whether to add more zones or another controller.
+- Wait until current 3 vineyard blocks are tested on canal water.
+- Add zones only if current block size causes pressure/flow problems, poor uniformity, or scheduling constraints.
+- Current 45-55 psi is workable in principle, but actual zone uniformity matters more than static pressure.
+
+VINEYARD TASKS
+[NOW] Protect the 1,000 established third-year vines.
+- These are the closest vines to future production.
+- Prioritize irrigation reliability, weed control, and shoot/trunk protection on these vines first.
+
+[NOW] Protect newly planted vines.
+- Check whether new vines need different water attention than established vines.
+- Avoid assuming the same 50-minute schedule is ideal for both established and new vines.
+
+[SOON] Mark weak vines and new plantings separately.
+- Use flags or map notes.
+- Categories:
+  1. Established and strong.
+  2. Established but weak.
+  3. Newly planted and alive.
+  4. Newly planted and stressed.
+  5. Missing/dead.
+
+[SOON] Verify vineyard irrigation uniformity.
+- During an irrigation run, check beginning/middle/end of longest rows.
+- Confirm emitters are dripping.
+- Look for pressure differences, clogged sections, and breaks.
+- Record any zones that look weak.
+
+[SOON] Decide irrigation schedule by observation, not fixed habit.
+- Current practice: 50 minutes/night per vineyard zone, three zones.
+- Validate with soil moisture at root depth and vine response.
+- Clay soil can retain water; avoid overwatering if root zone stays saturated.
+- New vines may require more frequent but carefully controlled establishment water.
+
+[SOON] Consider soil testing.
+- Use results before spending much on fertilizer.
+- Weak vines may be caused by water delivery, compaction, soil variability, salts, pH, or nutrient deficiency.
+
+[SOON] Continue ACS weed control.
+- The ACS is currently working well.
+- Keep under-vine competition low.
+- Avoid trunk/shoot damage, especially on new vines.
+
+HOME / RESIDENTIAL ASSET TASKS
+[SOON] Document completed improvements.
+- New roof: date, contractor/materials, cost, warranty, photos.
+- New siding: date, contractor/materials, cost, warranty, photos.
+- Store receipts and before/after photos.
+- This supports valuation, insurance, and future sale/rental documentation.
+
+[SOON] Calculate true monthly carrying cost.
+Known:
+- Mortgage: about $2,100/month.
+- Internet: about $150/month.
+- Power: about $120-$180/month.
+Need:
+- Insurance.
+- Taxes.
+- Fuel/commute.
+- Vehicle payments/insurance if any.
+- Farm inputs.
+- Repairs.
+- Canal/water costs.
+- Other debts.
+- Food/household.
+This number is required before making bigger investment decisions.
+
+GREENHOUSE / CHICKENS
+[LATER] Keep greenhouse and chickens small for now.
+- Do not expand these as profit centers until vineyard/water infrastructure is stable.
+- Track costs and production first.
+
+[LATER] Define greenhouse purpose.
+Options:
+- Household starts.
+- Vineyard replacement starts/support plants.
+- Small plant sales.
+- Winter greens.
+- Storage only.
+Pick one primary purpose before expanding.
+
+[LATER] Track chicken economics.
+- Number of birds.
+- Eggs/week.
+- Feed/month.
+- Bedding/month.
+- Losses/issues.
+- Decide whether chickens are utility/hobby or profit center.
+
+EQUIPMENT / SIDE-INCOME TASKS
+[LATER] Evaluate occasional equipment service income.
+- Ram 3500 + 16k tilt deck + Land Pride implements could produce occasional income.
+- Do not commit to recurring work unless insured, profitable, and not disruptive.
+- Track hourly profit after fuel, wear, travel, insurance, and lost property-work time.
+
+QUESTIONS TO ANSWER NEXT
+1. What are the 8 Rachio zones currently set up?
+2. Which 7 zones are actively used?
+3. Are the three vineyard blocks equal in row count and length?
+4. What is the sand filter brand/model/pipe size/flow rating?
+5. Do you have pressure gauges before and after the filter location?
+6. Does the well system and future canal system have backflow isolation between them?
+7. What are your property taxes and insurance costs?
+8. Do you have other major monthly debts?
+9. How many chickens do you have and what is your monthly feed cost?
+10. Do you have a soil test?
+11. What is the expected grape buyer or winery relationship, if any?
+12. What is your target: sell grapes only, make wine later, or build property value first?
+
+WINEMAKING / CIDERMAKING TASKS
+[SOON] Inventory winemaking/cider equipment.
+- Photograph each item.
+- Record make/model/capacity/condition.
+- Note whether each item is installed, stored, clean, functional, or needs repair.
+- Record missing fittings, hoses, clamps, gaskets, valves, glycol lines, and electrical needs.
+
+[SOON] Decide beverage-business intent.
+Choose the likely path before spending money:
+1. Private/hobby production only.
+2. Small commercial wine label.
+3. Small commercial cider label.
+4. Mixed wine/cider production.
+5. Custom crush / alternating proprietorship / shared production model.
+6. Tasting-room / direct-to-consumer model.
+7. Wholesale only.
+
+[SOON] Identify compliance and facility gaps before spending capital.
+Questions:
+- What licenses/permits are required for Idaho wine/cider production and sales?
+- Does the property zoning allow production and/or tasting room activity?
+- Does the property need county approval, health/fire/building inspection, or wastewater review?
+- Is commercial production allowed in the existing building/location where equipment would be installed?
+- What are the federal TTB requirements?
+- What are Idaho State Tax Commission / Alcohol Beverage Control requirements?
+- What labeling approvals are required?
+- What recordkeeping is required?
+
+[SOON] Inspect production-space suitability.
+- Water supply.
+- Hot water availability.
+- Washdown ability.
+- Floor drain/wastewater handling.
+- Sanitary surfaces.
+- Pest control.
+- Ventilation.
+- Electrical capacity.
+- Glycol unit placement and heat rejection.
+- Winter freeze protection.
+- Tank access and forklift/tractor/trailer access.
+- Bottling/packaging/storage space.
+
+[SOON] Build a first commercial beverage model on paper only.
+- Do not spend yet.
+- Estimate production volume from 5 bbl / 10 bbl capacity.
+- Estimate bottle count.
+- Estimate fruit cost if buying apples/grapes.
+- Estimate bottle/cork/label/capsule/case cost.
+- Estimate licensing/compliance cost.
+- Estimate insurance.
+- Estimate sale price per bottle/glass.
+- Estimate realistic sales channel and labor.
+
+[LATER] Consider cider as an earlier cash-flow experiment than estate Cabernet.
+- Cider may allow purchased apple juice/fruit before vineyard crop is fully productive.
+- This could use existing tanks and glycol.
+- Must verify licensing, facility, sanitation, market demand, and margins first.
+- Do not let cider distract from vineyard irrigation during the growing season.
+
+[WAIT] Do not buy more winemaking/cider equipment.
+- Wait until inventory, compliance, facility needs, and production model are complete.
+- Existing equipment is already significant.
+
+PRODUCTION SPACE TASKS
+[NOW] Photograph and map the lean-to production candidate space.
+- Take photos of all four walls, ceiling, floor, doors, windows, sink, outlets, lights, plumbing, and where equipment currently sits.
+- Sketch dimensions of both rooms.
+- Mark sink, doors, electrical panel/outlets, drain locations, water lines, and equipment footprint.
+
+[NOW] Separate facility improvements into three categories.
+1. Required for safety/compliance/function.
+2. Helpful for workflow/sanitation.
+3. Cosmetic/appearance only.
+Do not spend on category 3 until categories 1 and 2 are understood.
+
+[SOON] Evaluate sink room as sanitation/utility room.
+Check:
+- Is there hot water?
+- Is the sink large enough for hoses, fittings, small parts, and sanitation?
+- Is there handwashing capability?
+- Is the plumbing reliable?
+- Where does wastewater go?
+- Can chemicals be stored safely away from food/wine contact surfaces?
+
+[SOON] Evaluate garage-like room as tank/production room.
+Check:
+- Can the 5 bbl unitank and 10 bbl tank fit with working clearance?
+- Can tanks be cleaned in place or washed safely?
+- Is the floor washable?
+- Is there a drain or safe way to handle spills/washdown?
+- Can the glycol unit run without overheating the room?
+- Is there enough electrical capacity?
+- Can pests, dust, and weather be controlled?
+- Can finished product be stored securely and temperature-stably?
+
+[SOON] Build a minimum viable winery/cidery facility list.
+Likely categories:
+- Washable wall/ceiling/floor surfaces.
+- Drainage/wastewater handling.
+- Hot water.
+- Hose bibs and food-grade hoses.
+- Adequate lighting.
+- Pest exclusion.
+- Electrical service for glycol, pumps, and accessories.
+- Tank anchoring/clearance.
+- Chemical/sanitation storage.
+- Lab bench/small testing area.
+- Bottling/packaging table.
+- Case-good storage.
+- Customer-facing/tasting appearance only if legally pursuing tasting/direct sales.
+
+[SOON] Do not assume tasting-room use.
+- The 6-bottle dispenser is useful, but tasting/direct sales may require separate licensing, zoning approval, parking/restroom/customer-area considerations, and insurance.
+- First evaluate production legality and facility readiness.
+- Tasting-room appearance comes after legal feasibility.
+
+[WAIT] Do not remodel the lean-to heavily yet.
+- Wait until the production model and compliance requirements are known.
+- Avoid spending money twice by making it attractive but not approvable.
+
+FLOOR / DRAIN / SEPTIC TASKS
+[NOW] Do not install a floor drain until the discharge path is decided.
+- The floor drain itself is not the hard part.
+- The important question is where the drain goes and whether that is legal/safe for winery/cidery use.
+
+[NOW] Inspect and document concrete floor.
+- Photograph both rooms.
+- Note cracks, low spots, existing slope, soft/spalled areas, oil/chemical stains, and thresholds.
+- Pour a small amount of water in several places and observe where it naturally moves.
+- Record whether tank washdown would pool anywhere.
+
+[SOON] Identify septic system details.
+- Septic tank location.
+- Drain field location.
+- Tank size if known.
+- Age/condition.
+- Last pump-out date.
+- Whether there is a permit/design record.
+- Whether adding winery/cidery wastewater would be allowed or risky.
+
+[SOON] Decide wastewater concept before remodeling.
+Options to evaluate:
+1. No floor drain initially; use controlled washdown, buckets, wet vac, and portable collection.
+2. Point floor drain to approved wastewater path.
+3. Trench drain in production room to approved wastewater path.
+4. Dedicated holding/sump tank for production wash water.
+5. Separate graywater/process wastewater handling, if required.
+6. Sink-only wastewater for small production, with tank cleaning handled separately.
+
+[SOON] Talk to the relevant local authority or qualified septic professional before tying production drainage into septic.
+Questions:
+- Can commercial wine/cider production wastewater enter the existing residential septic?
+- Are sanitizer/cleaner chemicals acceptable?
+- Are there limits on volume, pH, biological load, or solids?
+- Is a grease/solids trap, settling tank, or neutralization required?
+- Would production use change the septic permit or property use classification?
+
+[SOON] Consider sealing/coating the concrete after drain plan is set.
+- Concrete should be cleanable and resistant to staining/absorption.
+- Do not coat before cutting/installing drains or fixing slope issues.
+- A washable floor plus FRP walls would make the space much more production-suitable.
+
+[WAIT] Hold FRP installation until floor/drain plan is chosen.
+- FRP is still a good wall solution.
+- Install it after major drain/floor cutting, plumbing, and rough utility work are complete.
+
+GRAPEVINE PROPAGATION TASKS
+[NOW] Create a propagation log.
+Track:
+- Date cuttings taken.
+- Source row/vine.
+- Variety/clone.
+- Cutting type.
+- Number of cuttings.
+- Rooting method.
+- Rooting hormone used or not.
+- Container/bed location.
+- Survival/rooting count.
+- Transplant date.
+- Final planting location.
+
+[NOW] Mark mother vines.
+- Positively mark the strongest, healthiest, true-to-type vines.
+- Do not take cuttings from weak, diseased, suspicious, stunted, or off-type vines.
+- Use propagation to multiply the best vines, not the weakest vines.
+
+[SOON] Decide propagation purpose for this year.
+Priority order:
+1. Replacement vines for missing/dead/weak spots.
+2. Backup nursery stock.
+3. Expansion into new vineyard acreage.
+4. No vine sales; internal use only unless nursery licensing is intentionally pursued later.
+
+[SOON] Build a small nursery block/system.
+- Keep propagated vines grouped and labeled.
+- Irrigate separately if possible.
+- Protect from weeds, heat, drying, and animals.
+- Track survival rate.
+- Avoid planting large numbers into permanent vineyard rows until the canal irrigation system is reliable.
+
+[SOON] Estimate real cost per propagated vine.
+Include:
+- Pots/bags/tubes.
+- Soil/media.
+- Rooting hormone.
+- Labels.
+- Irrigation.
+- Labor.
+- Losses.
+- Trellis/grow tubes.
+- Permanent irrigation/tubing.
+- Time until production.
+
+[SOON] Build expansion math before planting 500+ vines.
+Calculate:
+- Acres added by 500 vines at 5 ft vine spacing and 9 ft row spacing.
+- New trellis length required.
+- Dripline length required.
+- Emitters required.
+- Additional Rachio/canal zone needs.
+- Additional ACS/weed-control time.
+- Years until meaningful crop.
+
+[WAIT] Do not expand vineyard acreage only because vines are available.
+- Expand only when irrigation, trellis, labor, and cash flow are ready.
+- Propagated vines are an advantage, but new acreage creates multi-year obligations.
+
+PROPAGATION REGULATORY TASKS
+[NOW] Remove vine sales from profit planning.
+- Do not plan on selling Cabernet Sauvignon cuttings, rooted vines, or nursery stock.
+- Use propagation internally only.
+
+[SOON] Label propagated vines as internal vineyard stock.
+- Track source and planting location.
+- Keep records for vineyard management, not customer sales.
+
+[WAIT] Do not distribute propagated vines outside the property without checking rules.
+- Even giveaways or trades may create ambiguity.
+- Keep the simple rule: internal use only.
+
+[WAIT] Nursery licensing is not a current objective.
+- Revisit only if plant propagation becomes a serious business line.
+
+MAY 6 VINE PURCHASE / PLANTING TASKS
+[NOW] Count actual open vine positions in the trellised but unplanted area.
+- Do not estimate from acres only.
+- Walk the trellis and count plantable vine spots at 5 ft spacing.
+- Separate:
+  1. Empty trellised expansion spots.
+  2. Replacement spots in existing rows.
+  3. Weak-vine replacement candidates.
+  4. Spots not ready because irrigation/soil/trellis is incomplete.
+
+[NOW] Confirm irrigation readiness for the remaining trellised 0.5 acre.
+- Is dripline installed?
+- Are emitters present and working?
+- Is this area already tied into one of the three vineyard zones?
+- Can the well support it until canal water is online?
+- Can new vines receive establishment water without overwatering established vines?
+
+[NOW] Contact/check Inland Desert Nursery before deciding.
+Record:
+- Available varieties/clones/rootstocks.
+- Price per vine.
+- Minimum order.
+- Pickup/shipping date.
+- Planting/storage instructions.
+- Whether vines are dormant benchgrafts, own-rooted, potted, or otherwise.
+- Recommended planting timing for Wilder, Idaho on May 6.
+
+[SOON] Make a buy-vs-propagate decision for the 0.5 acre.
+Decision rule:
+- Buy vines now if the exact trellised spots are ready, irrigation is ready, and certified nursery vines are available at acceptable price.
+- Use propagated vines later if irrigation/planting prep is not ready or if cash preservation is more important.
+- Split strategy may be best: buy certified vines for block completion and use propagated vines for backups/replacements.
+
+[SOON] If buying vines, prepare planting supplies before pickup/shipping.
+- Water source confirmed.
+- Drip emitters checked.
+- Shovel/auger ready.
+- Stakes/grow tubes/protection ready if used.
+- Labels/row map ready.
+- Root hydration plan ready.
+- Planting labor window scheduled.
+- Mulch/weed control plan ready if applicable.
+
+[WAIT] Do not buy vines just because they are available.
+- Availability creates opportunity, not obligation.
+- Vines become a liability if irrigation, planting labor, and aftercare are not ready.
+
+TRELLIS / VARIETAL DECISION TASKS
+[NOW] Do not build new trellis before filling/planning the existing 2 acres.
+- Existing trellis is a sunk advantage.
+- Fill or deliberately reserve the remaining 0.5 acre before expanding posts/wire elsewhere.
+
+[NOW] Price the full cost of adding 0.5 acre vs 1.0 acre of new vineyard.
+Include:
+- Posts at about $12 each.
+- Wire at about $200 per 3,900 ft roll.
+- Anchors/end assemblies.
+- Dripline.
+- Emitters/fittings/valves.
+- Rachio/controller expansion if needed.
+- Grow tubes/stakes/protection.
+- Vine cost.
+- Labor/time.
+- ACS weed-control time.
+- Additional irrigation demand.
+
+[SOON] Decide whether the remaining trellised 0.5 acre should be Cabernet or a second varietal.
+Decision factors:
+- Cabernet keeps the block simple and supports current propagation system.
+- Syrah adds red-wine flexibility, future propagation stock, and potential blending options.
+- A second varietal should be planted in a coherent block, not scattered randomly, unless used only as trial rows.
+- If buying Syrah, buy enough to create a meaningful future mother block, not just a few isolated vines.
+
+[SOON] Call/check Inland Desert Nursery for current-season availability.
+Ask specifically:
+- Cabernet Sauvignon clone/rootstock availability.
+- Syrah clone/rootstock availability.
+- Other Idaho-suitable varieties available now.
+- Price per vine.
+- Minimum order from current availability.
+- Pickup/shipping timing.
+- Whether vines are own-rooted or grafted.
+- Planting instructions for May delivery.
+
+[SOON] Build a 3-option planting plan.
+Option A: Fill remaining 0.5 acre with Cabernet.
+Option B: Fill remaining 0.5 acre with Syrah or another second varietal.
+Option C: Split: Cabernet replacements + compact Syrah trial/mother block.
+Compare each option by:
+- Cash cost.
+- Irrigation readiness.
+- Labor.
+- Future wine usefulness.
+- Propagation value.
+- Complexity.
+
+[WAIT] Do not diversify into many varietals yet.
+- One second varietal may be useful.
+- Too many small varietal blocks increase management, harvest, fermentation, and recordkeeping complexity.
+
+UPDATED MAY 6 EVENING DECISION TASKS
+[NOW] Treat the 456 open trellis spaces as plantable if nursery vines and dripline can be secured.
+- Water reaches the area.
+- Zone capacity appears adequate because owner has observed 3,300 linear ft per block/zone working properly.
+- The 456-vine area requires about 2,280 linear ft at 5 ft spacing.
+- Existing 1,000 ft dripline is not enough by itself.
+
+[NOW] Order or source additional dripline if buying vines.
+- Minimum additional need: about 1,280 ft.
+- Recommended order: 1,500-2,000 ft to allow for slack, routing, row ends, repairs, and mistakes.
+- Confirm emitter spacing and flow rate match existing vineyard design if tying into the same management approach.
+
+[NOW] Call/check Inland Desert Nursery with a specific target quantity.
+- Ask about approximately 456 vines plus a small replacement reserve if budget allows.
+- If buying a second varietal such as Syrah, try to keep it as one coherent block.
+- If buying Cabernet, use it to complete the trellised area consistently.
+- If exact count is uncertain, consider 456 plus 5-10% extra only if storage/planting plan is ready.
+
+[SOON] Prepare the remaining trellised block for planting.
+- Install/finish dripline before or immediately after planting.
+- Test water at the end of each run.
+- Mark vine positions.
+- Prepare labels/row map.
+- Plan protection for new vines.
+
+GREENHOUSE CABERNET / HYBRID PLANTING TASKS
+[NOW] Revise vine purchase target.
+- Do not assume 456 purchased vines are required.
+- Account for at least 200 greenhouse Cabernet vines expected in about one month.
+- Approximate remaining need after greenhouse Cabernet: 456 - 200 = 256 vines.
+- Consider buying Syrah for the remaining 250-300 spaces if available and desirable.
+
+[SOON] Create a hybrid block layout.
+Options:
+1. Plant approximately 256 purchased Syrah vines now and use 200 greenhouse Cabernet vines later in a separate coherent area.
+2. Buy enough Syrah to create a clean Syrah block and reserve greenhouse Cabernet for replacements.
+3. Use greenhouse Cabernet to complete the existing Cabernet block and buy no vines now.
+4. Buy a smaller Syrah trial/mother block and leave some trellis spaces for greenhouse Cabernet.
+
+Decision rule:
+- Do not scatter Cabernet and Syrah randomly down the same rows if avoidable.
+- Keep varietals in clean row blocks for irrigation observation, harvest timing, spraying/scouting, and winemaking records.
+
+[SOON] Harden off greenhouse Cabernet before field planting.
+- Gradually expose vines to outdoor conditions.
+- Avoid moving tender greenhouse vines directly into full sun/heat/wind.
+- Confirm roots are established enough before planting.
+- Protect from drying out after transplanting.
+
+[SOON] Decide whether greenhouse Cabernet should be replacements or expansion.
+Preferred order:
+1. Replace dead/missing/weak Cabernet spots.
+2. Fill contiguous Cabernet block gaps.
+3. Use remaining vines for open trellis.
+4. Hold extras as backup nursery stock.
+
+[WAIT] Do not overcommit the entire open trellis area to purchased vines until greenhouse vine survival is known.
+- The greenhouse stock meaningfully reduces the purchase requirement.
+- Purchase only what improves the plan, especially varietal diversification.
+
+THREE-ROW PLANTING TASKS
+[NOW] Adopt the clean row-block concept unless nursery availability changes.
+Preferred layout:
+- Row A: Cabernet Sauvignon clone 33 from greenhouse stock.
+- Row B: Syrah.
+- Row C: Syrah.
+
+[NOW] Calculate exact vine counts by row.
+- Measure actual plantable length of each row, not just total row length.
+- Mark first and last vine positions.
+- Count 5 ft spacing marks.
+- Record final count for:
+  - Cabernet row.
+  - Syrah row 1.
+  - Syrah row 2.
+  - Replacement reserve.
+
+[SOON] Target Syrah purchase quantity.
+- Expected need: approximately 300-320 Syrah vines for two 800 ft rows.
+- If row-end spacing reduces count, actual need may be closer to 300.
+- Consider ordering 5-10% extra only if planting/storage plan is ready.
+- Do not order so many extras that they become a care burden.
+
+[SOON] Assign the greenhouse Cabernet row.
+- Use the strongest greenhouse Cabernet vines for the planted row.
+- Hold weaker/smaller greenhouse vines as nursery stock or replacement stock.
+- Harden off before field planting.
+- Do not plant tender greenhouse vines directly into full summer stress without acclimation.
+
+[SOON] Keep varieties in full-row blocks.
+- Do not mix Syrah and Cabernet randomly in the same row unless forced by shortage.
+- Full-row blocks simplify harvest timing, irrigation observations, pruning notes, and winemaking records.
+
+[SOON] Prepare dripline for the three rows.
+- Three rows at roughly 800 ft each require about 2,400 ft of dripline before routing/slack.
+- Owner currently has about 1,000 ft.
+- Additional practical need: at least 1,500 ft; 2,000 ft is safer.
+- Test water at the far end of each row after installation.
+
+[SOON] Call/check Inland Desert Nursery for Syrah specifically.
+Ask:
+- Do you have 300-320 Syrah vines available now?
+- What clone/rootstock?
+- Price per vine?
+- Minimum order?
+- Pickup/shipping timing?
+- Planting/storage instructions?
+- Are vines dormant, own-rooted, grafted, or potted?
+
+[WAIT] If Syrah is unavailable or poor material, do not force the plan.
+Fallbacks:
+1. Plant greenhouse Cabernet in one row and leave two rows open until better Syrah is available.
+2. Plant one Syrah row if only partial quantity is available.
+3. Plant Cabernet in more rows only if preserving simplicity and cash is more important than varietal diversification.
+
+CIDER ORCHARD STAKING TASKS
+[SOON] Stake cider orchard rows using the angled layout.
+Working rule:
+- Rows run southwest-to-northeast.
+- Bearing: roughly 25°-30° east of true north.
+- Tree spacing: 16 ft in-row.
+- Row spacing: 18 ft between rows.
+- Order target: 75 trees.
+
+[SOON] Stake the orchard in this order:
+1. Identify the cleanest long centerline running southwest-to-northeast.
+2. Stake that center row first.
+3. Place trees every 16 ft along that row.
+4. Offset parallel rows 18 ft apart.
+5. Stop rows when they reach the perimeter setback.
+6. Allow outside rows to be shorter.
+7. Do not force a perfect rectangle or equal row counts.
+
+[SOON] Use odd row lengths as a feature, not a problem.
+- The polygon is irregular.
+- Uneven row counts are acceptable.
+- The goal is efficient fit, access, sunlight, and irrigation simplicity.
+
+[SOON] Sketch irrigation after staking.
+- Header location should serve the angled rows cleanly.
+- Each row should have a flushable end.
+- Keep room for access, mowing, and harvest movement.

@@ -1,0 +1,103 @@
+# app_vineyard/todo.txt
+# Immediate Property Checklist
+# Last regenerated: 2026-05-07
+
+PURPOSE
+This file contains the immediate short-term checklist only.
+The main rule is to protect existing plantings, complete prepared infrastructure, and avoid scattering effort.
+
+================================================================================
+TODAY / NEXT AVAILABLE WORK WINDOW
+================================================================================
+
+PRIMARY GOAL
+Keep the current plan moving without creating new obligations faster than water, labor, and records can support.
+
+1. Check Orchard Valley Supply quote status when appropriate.
+   Quote should include:
+   - 350 8 ft 13 ga notched vineyard posts.
+   - 2 rolls 1000 ft Netafim 24-inch spacing dripline, no clips.
+   - 10 rolls 1000 ft Netafim 30-inch spacing dripline, with clips.
+   - 11 rolls 12.5 ga 3900 ft vineyard trellis wire.
+   Decision rule:
+   - Judge delivered cost.
+   - 350 posts is currently the right estimate.
+   - Do not increase unless freight makes it obviously worthwhile.
+
+2. Confirm Syrah source.
+   Ask:
+   - Do you have 300-320 Syrah vines?
+   - What clone/rootstock?
+   - Price?
+   - Pickup/shipping timing?
+   - Is May planting still acceptable for Wilder, Idaho?
+   Buy only if material is good and water is ready.
+
+3. Check greenhouse Cabernet.
+   - Count strong rooted vines.
+   - Start/continue hardening-off plan.
+   - Reserve strongest vines for one new Cabernet row.
+   - Hold weak vines as nursery/replacement stock.
+
+4. Quick vineyard check.
+   - Existing Cabernet irrigation.
+   - New/weak vines.
+   - Prepared three rows.
+   - Leaks or clogged emitters.
+   - Dry spots.
+   - Weed pressure.
+
+5. Mark Mora Canal setback before orchard staking.
+   - Find lower toe of the bank.
+   - Measure 20 ft into property.
+   - Flag no-plant line.
+   - Keep canal road/access open.
+
+================================================================================
+WEEKEND PRIORITY ORDER
+================================================================================
+
+1. Keep established Cabernet alive and uniform.
+2. Prepare the three vineyard rows already served by irrigation lines.
+3. Install/prepare dripline and planting layout for the three new grape rows.
+4. Bury/install 1.5-inch PVC orchard supply line.
+5. Stake cider orchard using priority row layout.
+6. Prepare grow bags if trees arrive before orchard is ready.
+7. Work on canal pump/sand filter readiness.
+8. Winery/cidery room work last.
+
+================================================================================
+CIDER ORCHARD PRIORITY ROW PLAN
+================================================================================
+
+Main orchard:
+- Row 7, north/longest: Dabinette x10.
+- Row 6: Dabinette x10.
+- Row 5: Yarlington Mill x10.
+- Row 4: Yarlington Mill x10.
+- Row 3: Kingston Black x10.
+- Row 2: Kingston Black x10.
+- Row 1, south/house side: Cox Orange Pippin x7.
+
+Extra tree rows:
+- 110 ft row: Ribston Pippin x7.
+- 75 ft row: Cox Orange Pippin x3 + Ribston Pippin x3.
+
+Rules:
+- Only the 75 ft extra row is mixed.
+- Longest rows get highest-priority cultivars.
+- Do not crowd trees just because there is room.
+- More trees can be propagated/grafted later after performance is known.
+
+================================================================================
+DO NOT DO THIS WEEK
+================================================================================
+
+- Do not start a full nursery business.
+- Do not buy poor Syrah.
+- Do not plant before water is ready.
+- Do not plant inside the canal setback.
+- Do not remodel winery/cidery space.
+- Do not install floor drain until discharge path is decided.
+- Do not add another irrigation controller.
+- Do not expand beyond the current planned rows just because supplies are available.

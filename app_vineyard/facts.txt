@@ -1,0 +1,235 @@
+# app_vineyard/facts.txt
+# Property Facts
+# Last regenerated: 2026-05-07
+
+PROPERTY
+- Address: 18190 Allendale Rd, Wilder, ID 83607.
+- Property includes a manufactured home.
+- Owner lives in the manufactured home.
+- Owner reports:
+  - New roof recently installed.
+  - New siding recently installed.
+  - Small 8x8 ft greenhouse built.
+  - A few chickens on site.
+  - Lean-to / production candidate space attached to or associated with the home.
+
+OWNER / CASH FLOW / LABOR
+- Owner is currently enlisted with the Idaho Air National Guard.
+- Owner works full time AGR at Mountain Home AFB.
+- Approximate after-tax income: $6,000/month.
+- Owner is generally available for major property/business work Saturday through Monday.
+- Tuesday-Friday evening work windows are limited.
+- Owner does sporadic weekend tractor work for others at about $100/hour.
+- Tractor work is irregular and should be treated as supplemental, not primary income.
+
+FINANCES
+- Mortgage: about $2,100/month.
+- Internet: about $150/month.
+- Power: about $120-$180/month, higher in warmer seasons.
+- Known base monthly costs before many other expenses: about $2,370-$2,430/month.
+- Owner has approximately $25,000 available to invest now.
+- Owner estimates property value around $600,000.
+- Owner estimates total debt on everything, including property, around $300,000.
+- Unknown:
+  - Property taxes.
+  - Insurance.
+  - Fuel/commute.
+  - Vehicle/trailer/equipment insurance.
+  - Other debts.
+  - Farm input costs.
+  - Canal/water fees.
+  - Repair reserve needs.
+
+EQUIPMENT
+- Owner owns outright a Kubota L4760 HST tractor.
+- Tractor has front-end loader with capacity over 2,000 lbs.
+- Owner uses the tractor to quickly bury irrigation lines.
+- Owner has forks for unloading/staging materials.
+- Owner has a 2017 Ram 3500.
+- Owner has a 16k tilt deck trailer.
+- Owner has quite a few Land Pride tractor implements.
+- Owner uses a Thiessen ACS-style ground-contact tool for under-vine weed control.
+
+LAND / WATER / IRRIGATION
+- Property size previously reported around 5.88 acres.
+- Owner previously estimated about 5 acres plantable in vineyard, subject to actual layout/easements.
+- Owner has 5.7 acre-feet of water right.
+- Water right comes from the High Line Canal.
+- Mora Canal is on the north side of the property.
+- Mora Canal easement/contact information:
+  - Contact Tom at 208-344-1141.
+  - Planting zone starts 20 ft from the lower toe of the canal/bank.
+- Canal irrigation has not yet been fully used by owner.
+- Electrical connection to 5 hp pump was recently completed.
+- Owner previously reported 5 hp pump running about 88 gallons per minute.
+- Current irrigation is from well water at night.
+- Current irrigation pressure ranges from about 45 to 55 psi.
+- Existing Rachio 16-zone controller manages irrigation from well water.
+- Owner currently has 8 irrigation zones set up and uses 7.
+- Owner can add another 8 zones if needed.
+- Owner can add another controller if needed, but this is not currently recommended until need is proven.
+- A sand filter exists for the canal pump / irrigation manifold path but is not yet installed.
+- Sand filter installation remains high priority before canal water feeds drip irrigation.
+- Owner already owns 1.5-inch PVC pipe that will be buried to supply water to the cider orchard drip lines.
+- Orchard PVC installation still needs to be done soon.
+
+VINEYARD
+- Existing vineyard is Cabernet Sauvignon clone 33.
+- Corrected established Cabernet Sauvignon block coordinates:
+  1. 43.634613168364474, -116.8715773443498
+  2. 43.634684509717964, -116.87157466214093
+  3. 43.63478157264791, -116.8711743424671
+  4. 43.6348362358486, -116.86743509658389
+  5. 43.63467559676067, -116.86742503830064
+- Approximate corrected established Cabernet block area: about 1.44 acres.
+- Current Cabernet Sauvignon block is fully irrigated.
+- Vineyard rows are oriented east-west due to property orientation.
+- Row spacing: 9 ft.
+- Vine spacing: 5 ft.
+- Total vines previously estimated around 1,400.
+- About 1,000 vines are doing well and are on their third year.
+- Remaining vines were recently planted.
+- Dripline/emitter detail:
+  - 0.49 gallons per hour emitters.
+  - 30-inch spacing.
+- Owner reports good clay content/soil water retention.
+- Area receives about 12 inches annual rainfall.
+- Owner plans to let controller/rain logic reduce irrigation when rain occurs.
+
+GREENHOUSE / PROPAGATION
+- Owner has roughly 300-400 grapevines currently rooting in the greenhouse.
+- Greenhouse vines are Cabernet Sauvignon clone 33.
+- Owner can propagate grapevines for internal use.
+- Owner does not currently want to sell propagated vines because nursery stock sales/distribution are regulated.
+- Propagated grapevines should be treated as internal-use material unless owner intentionally pursues nursery licensing later.
+
+IMMEDIATE THREE-ROW VINEYARD EXPANSION
+- Owner already has irrigation lines set for an additional three vineyard rows, roughly half an acre.
+- Planned planting:
+  - One row of greenhouse Cabernet Sauvignon clone 33.
+  - Two rows of Syrah.
+- The three-row plan is considered a clean, practical, near-term expansion because irrigation lines are already set.
+- Keep the varieties separated by row.
+
+FUTURE VINEYARD BLOCKS
+Block 1 coordinates:
+  1. 43.63488315655723, -116.87020887878381
+  2. 43.634946641724916, -116.8699999533112
+  3. 43.63498011569543, -116.87000952241681
+  4. 43.63522597566592, -116.87053741807664
+  5. 43.63545798344798, -116.87070487742491
+  6. 43.63544413226226, -116.87055017688412
+  7. 43.634909704908246, -116.8684114817789
+- Approximate area: about 48,450 sq ft / 1.11 acres.
+- Likely use: future strategic vineyard expansion such as Cabernet Franc, Merlot, Petit Verdot,
+  additional Syrah/Cabernet, or other disciplined red-wine block choices.
+
+Block 2 coordinates:
+  1. 43.634893505051764, -116.86832641001448
+  2. 43.63500532387084, -116.86745129160288
+  3. 43.63492207192316, -116.86745580252251
+- Approximate area: about 3,470 sq ft / 0.08 acres.
+- Block 2 is a small triangular/skinny block.
+- Owner is considering Zinfandel for Block 2 because the owner personally likes Zinfandel.
+- This is acceptable as a small personal/specialty/experimental block, not a core commercial block.
+- Any extra Zinfandel could be sold or used if production exceeds personal use.
+
+VARIETAL STRATEGY
+- Cabernet Sauvignon clone 33 remains the core estate red.
+- Syrah is the preferred second red block.
+- Owner wants to explore Bordeaux-family varietals.
+- Avoid planting Malbec:
+  - It does not sell as well locally.
+  - Owner has access to Kerry Hill Vineyard excess Malbec if needed.
+- Better Bordeaux-family candidates:
+  - Cabernet Franc.
+  - Merlot.
+  - Petit Verdot in smaller amounts.
+- Zinfandel is acceptable in Block 2 as a small personal/specialty block.
+
+TRELLIS / SUPPLY QUOTE
+- Owner is currently waiting on an Orchard Valley Supply quote for:
+  - 350 each 8 ft 13 ga notched metal vineyard posts.
+  - 2 rolls Netafim dripline, 1000 ft, 24-inch dripper spacing, no clips.
+  - 10 rolls Netafim dripline, 1000 ft, 30-inch dripper spacing, with clips.
+  - 11 rolls 12.5 ga 3900 ft vineyard trellis wire.
+- Shipment would go to the vineyard.
+- Owner can unload with tractor/forks.
+- Owner has around 20 extra posts already.
+- Based on revised future vineyard blocks, 350 new posts plus existing spares appears to be a reasonable estimate.
+- Approximate post math for revised future blocks:
+  - Block 1 + Block 2 total about 1.19 acres.
+  - At 9 ft row spacing and 20 ft post spacing, rough line-post need is about 290 posts.
+  - 350 posts gives a practical margin for geometry, row ends, damaged posts, mistakes, and reserves.
+
+CIDER ORCHARD
+- Completed cider apple tree order:
+  - Dabinette: 20.
+  - Yarlington Mill: 20.
+  - Kingston Black: 20.
+  - Cox Orange Pippin: 10.
+  - Ribston Pippin: 10.
+  - Total: 80.
+- Owner can use grow bags to temporarily hold cider apple trees until the orchard site is ready.
+- Owner can create/graft/propagate more trees later.
+- Orchard area uses curved rows to fit the curved land efficiently.
+- Main orchard has 7 curved rows.
+- Row 7 is north side / longest row.
+- Row 1 is south side / toward house / shortest row.
+- Known row lengths:
+  - Longest row: 333 ft.
+  - Shortest row: 154 ft.
+- Two additional single-row tree areas:
+  - One row approximately 110 ft.
+  - One row approximately 75 ft.
+- Current cider orchard priority row layout:
+  - Row 7: Dabinette x10.
+  - Row 6: Dabinette x10.
+  - Row 5: Yarlington Mill x10.
+  - Row 4: Yarlington Mill x10.
+  - Row 3: Kingston Black x10.
+  - Row 2: Kingston Black x10.
+  - Row 1: Cox Orange Pippin x7.
+  - Extra 110 ft row: Ribston Pippin x7.
+  - Extra 75 ft row: Cox Orange Pippin x3 + Ribston Pippin x3.
+- Priority logic:
+  - Dabinette and Yarlington Mill are likely higher future propagation priorities than Kingston Black.
+  - Kingston Black remains important but should not dominate.
+  - Cox/Ribston are support/aromatic/sharp cultivars.
+
+WINEMAKING / CIDERMAKING EQUIPMENT
+- Owner owns substantial wine/cider equipment:
+  - 5 bbl jacketed unitank.
+  - 10 bbl jacketed wine tank.
+  - A few smaller tanks.
+  - 3.5 hp glycol cooling unit controlling both jacketed tanks.
+  - 6-bottle wine dispenser.
+  - Multiple wine pumps.
+  - Corker.
+  - Filter.
+  - Other related equipment.
+- Equipment is stored/located in the lean-to production candidate space.
+- The equipment should be treated as sunk capital / option value.
+
+PRODUCTION SPACE
+- Lean-to structure is approximately 900 sq ft.
+- Divided into two rooms:
+  - One room has a sink.
+  - One room is more like an empty garage.
+- Lean-to production candidate space has a concrete floor.
+- It does not currently have a floor drain.
+- Owner can install a floor drain.
+- Smaller room with sink uses water directly from the home.
+- Smaller room with sink drains to the home's septic system.
+- Wastewater/septic/compliance questions remain unresolved and should control any production-space remodeling.
+
+CURRENT OPEN FACTS NEEDED
+- Actual canal pump test results.
+- Sand filter brand/model/flow rating and parts needed.
+- Exact Rachio zone map.
+- Whether well/canal plumbing has backflow/isolation between sources.
+- Actual orchard row staking measurements after 20 ft lower-toe setback.
+- Actual Syrah source, clone/rootstock, price, and delivery/pickup timing.
+- Soil test results.
+- Current property taxes/insurance/true monthly carrying costs.
+- Cider tree arrival timing and holding/planting schedule.

@@ -1,0 +1,227 @@
+# app_vineyard/context.txt
+# Property Management Context
+# Last regenerated: 2026-05-07
+
+PURPOSE
+This file defines the management frame for the property at 18190 Allendale Rd, Wilder, ID.
+The purpose is to guide practical day-to-day and strategic decisions that improve profitability,
+preserve asset value, reduce wasted labor/water/money, and build the property toward productive
+agricultural, residential, and possible beverage-business use.
+
+================================================================================
+DECISION RULES / MANAGEMENT DOCTRINE
+================================================================================
+
+PRIMARY OBJECTIVE
+The primary objective is long-term profitability and efficient use of the land, property,
+equipment, water, capital, and the owner's limited time.
+
+The property strategy is allowed to change at any time if the facts show a better use of the
+property. Vineyard, cider, winery/cidery production, equipment services, supply resale, nursery
+activities, residential improvement, or other agricultural uses should all be judged by the same
+standard: whether they improve profitability, asset value, optionality, or operating efficiency
+without creating excessive risk or labor burden.
+
+CRITICAL DECISION STYLE
+Recommendations should be critical, not merely encouraging.
+The assistant's job is to:
+1. Gather information from the owner continuously.
+2. Identify missing facts before making strong claims.
+3. Challenge weak assumptions.
+4. Separate facts from estimates.
+5. Warn when momentum is turning into overextension.
+6. Prioritize profitability, survivability, and operating efficiency over excitement or aesthetics.
+7. Protect the owner's time, cash flow, and core infrastructure.
+8. Preserve optionality where uncertainty is high.
+9. Avoid recommending expansion just because land, equipment, plants, or materials are available.
+10. Keep records current enough to support future decisions.
+
+RESOURCE RULES
+- The owner's AGR job is the primary cash-flow engine and must be protected.
+- Weekend labor, especially Saturday through Monday, is the scarce operating resource.
+- Tuesday-Friday evening labor should be treated as limited and used for quick, high-value tasks.
+- The Kubota tractor, trailer, forks, and implements are major advantages, but they do not eliminate
+  the need for sequencing and capital discipline.
+- Owning infrastructure or plant material should not pressure the owner into planting faster than
+  irrigation, records, protection, and labor capacity can support.
+- Durable infrastructure purchases are preferred over cosmetic purchases when they reduce risk,
+  increase productive capacity, or lower future operating cost.
+
+EXPANSION RULES
+- Nothing should be planted unless water, irrigation delivery, row layout, access, and aftercare are ready.
+- Fill and stabilize prepared/irrigated capacity before opening new obligations.
+- Plant in clean blocks/rows by variety whenever possible.
+- Avoid scattered plantings that complicate pruning, irrigation observation, harvest timing, or records.
+- Personal-preference plantings are acceptable when small, contained, and not allowed to distort the
+  overall business plan.
+- New side businesses should be rejected if they require daily attention, retail hours, live-inventory
+  risk, or weekday customer service beyond the owner's availability.
+
+CAPITAL RULES
+- Spend first on irrigation reliability, filtration, valves, pressure monitoring, plant survival,
+  uniformity, and repair reserve.
+- Avoid heavy winery/cidery remodeling until legal, zoning, wastewater, sanitation, and sales-channel
+  requirements are understood.
+- Evaluate supply orders by delivered cost, not item cost alone.
+- Buy extra durable materials only if they can be stored, will likely be used, and do not consume
+  the reserve or force premature expansion.
+- Do not treat property equity as the same thing as liquid safety.
+
+RECORDKEEPING RULES
+Each durable decision should be captured in one of the working files:
+- context.txt: durable strategy, management doctrine, and long-term operating rules.
+- facts.txt: stable factual information and corrected measurements.
+- tasks.txt: current prioritized task backlog.
+- todo.txt: immediate short-term checklist.
+
+At the end of major planning discussions, rebuild these files and preserve the decision rules.
+
+================================================================================
+CURRENT STRATEGIC POSTURE
+================================================================================
+
+The property is in an establishment / infrastructure phase, not yet a mature income-producing farm.
+The strongest current strategy is:
+1. Keep AGR employment as the stable cash-flow base.
+2. Build the vineyard, cider orchard, irrigation, and production-property assets in disciplined phases.
+3. Use weekend tractor/equipment work only as opportunistic high-margin side cash.
+4. Avoid a full plant nursery or landscape retail business for now because it creates daily care,
+   regulation, inventory, and customer-service burdens.
+5. Consider only limited durable supply resale if the materials are useful to the property anyway.
+
+The highest-value near-term decisions are:
+- Make irrigation reliable and well documented.
+- Protect and improve the established Cabernet Sauvignon vineyard.
+- Complete the immediate three-row vineyard expansion only where irrigation is already prepared.
+- Install/finish orchard water delivery before or soon after tree arrival.
+- Keep the 80 cider apple trees alive, labeled, mapped, and irrigated.
+- Avoid overbuilding beyond the owner's labor capacity.
+
+================================================================================
+PROPERTY / CLIMATE CONTEXT
+================================================================================
+
+- Address: 18190 Allendale Rd, Wilder, ID 83607.
+- Region: Wilder / Canyon County / Treasure Valley, Idaho.
+- Annual rainfall assumption from owner: about 12 inches per year.
+- Irrigation is essential for vineyard and orchard production.
+- Dry climate may reduce some humidity-driven disease pressure, but scouting is still required.
+
+================================================================================
+OWNER AVAILABILITY / CASH FLOW
+================================================================================
+
+- Owner is enlisted with the Idaho Air National Guard.
+- Owner works full-time AGR at Mountain Home AFB.
+- After-tax income is approximately $6,000/month.
+- Primary property/business work windows are Saturday, Sunday, and Monday.
+- Tuesday-Friday evenings are limited work windows.
+- Owner does sporadic tractor work for others on weekends at about $100/hour, but it is irregular.
+- Weekend tractor work is a good supplemental cash-flow activity if it does not disrupt the vineyard,
+  orchard, home, or irrigation priorities.
+
+================================================================================
+CURRENT LONG-TERM PROPERTY THESIS
+================================================================================
+
+The best current path is not to scrap the vineyard/cider concept.
+The better structure is:
+
+1. Stable cash-flow layer:
+   - AGR job funds the property buildout and protects household stability.
+
+2. Long-term productive asset layer:
+   - Cabernet Sauvignon vineyard.
+   - Syrah expansion.
+   - Future Bordeaux-family blocks except Malbec.
+   - Small Zinfandel personal/specialty block.
+   - Cider apple orchard.
+   - Wine/cider production option using existing equipment, if compliance and facility requirements work.
+
+3. Opportunistic cash-flow layer:
+   - Weekend tractor services.
+   - Possible durable vineyard/orchard/irrigation supply resale only if inventory is useful to the property
+     and does not create daily retail obligations.
+
+4. Rejected for now:
+   - Full plant nursery.
+   - Landscape retail yard.
+   - Live plant sales requiring licensing, daily care, and customer traffic.
+   - Winery/cidery cosmetic buildout before compliance/facility/wastewater questions are answered.
+
+================================================================================
+VINEYARD STRATEGIC DIRECTION
+================================================================================
+
+Existing Cabernet Sauvignon clone 33 remains the core estate red.
+The immediate new vineyard planting concept is:
+- One additional row of greenhouse Cabernet Sauvignon clone 33.
+- Two rows of Syrah.
+- Keep varieties in full-row blocks.
+
+Future vineyard direction:
+- Avoid Malbec because local market movement is weaker and Kerry Hill Vineyard excess Malbec can be
+  purchased if needed for blending/production.
+- Bordeaux-family expansion remains interesting, especially Cabernet Franc, Merlot, and Petit Verdot.
+- Block 2 may be used for Zinfandel as a small personal/specialty block. This is acceptable because
+  the block is small and does not distort the business plan.
+
+================================================================================
+CIDER ORCHARD STRATEGIC DIRECTION
+================================================================================
+
+Completed cider tree order:
+- 20 Dabinette.
+- 20 Yarlington Mill.
+- 20 Kingston Black.
+- 10 Cox Orange Pippin.
+- 10 Ribston Pippin.
+- Total: 80 trees.
+
+The orchard is a cider genetics/production foundation block, not necessarily the final orchard size.
+The owner can propagate/graft more trees later, so the first order should be planted carefully rather
+than crowded or expanded impulsively.
+
+Priority cultivar logic:
+1. Dabinette: highest priority cider backbone and likely future propagation/scaling target.
+2. Yarlington Mill: high-priority productive bittersweet/body cultivar.
+3. Kingston Black: valuable bittersharp, important but not intended to dominate.
+4. Cox Orange Pippin: aromatic/sharp support.
+5. Ribston Pippin: aromatic/sharp support.
+
+Current priority row layout:
+- Row 7, north/longest: Dabinette x10.
+- Row 6: Dabinette x10.
+- Row 5: Yarlington Mill x10.
+- Row 4: Yarlington Mill x10.
+- Row 3: Kingston Black x10.
+- Row 2: Kingston Black x10.
+- Row 1, south/shorter: Cox Orange Pippin x7.
+- Extra 110 ft row: Ribston Pippin x7.
+- Extra 75 ft row: Cox Orange Pippin x3 + Ribston Pippin x3.
+
+Mora Canal rule:
+- Planting zone starts 20 ft from the lower toe of the Mora Canal bank.
+- Contact for easement information: Tom, 208-344-1141.
+- Keep the canal road/easement open as access, service, and turnaround space.
+
+================================================================================
+WINERY / CIDERY OPTION
+================================================================================
+
+The owner already owns substantial wine/cider equipment:
+- 5 bbl jacketed unitank.
+- 10 bbl jacketed wine tank.
+- Several smaller tanks.
+- 3.5 hp glycol cooling unit.
+- 6-bottle wine dispenser.
+- Multiple wine pumps.
+- Corker.
+- Filter.
+- Other related equipment.
+
+This equipment is option value, not proof that commercial production should start immediately.
+The bottlenecks are compliance, facility suitability, sanitation, labor, fruit supply, wastewater,
+sales channel, insurance, and cash flow.
+Do not buy more production equipment or do heavy cosmetic remodeling until the facility and compliance
+path is clear.

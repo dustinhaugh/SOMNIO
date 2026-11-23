@@ -1,0 +1,269 @@
+43.63483351086945, -116.87151505138075
+43.635290579638244, -116.87119703154562
+43.63548401662373, -116.870769621909
+43.63522854908065, -116.87060948426152
+43.63508163434671, -116.87087675625065
+43.634909417173596, -116.87097148556322
+
+
+7 rows:
+
+Longest row = 333ft
+
+shortest row = 154ft
+
+110 ft
+76ft
+
+CIDER ORCHARD PRIORITY ROW PLANTING DIAGRAM
+Property: 18190 Allendale Rd, Wilder, ID
+Plan version: 80-tree cider apple order, priority-row layout
+Updated purpose: Put highest-priority cider cultivars in the longest rows.
+Row numbering: Row 1 = south / house side. Row 7 = north / Mora Canal side.
+
+================================================================================
+TREE ORDER
+================================================================================
+
+Dabinette             20
+Yarlington Mill       20
+Kingston Black        20
+Cox Orange Pippin     10
+Ribston Pippin        10
+TOTAL                 80
+
+================================================================================
+VARIETY ABBREVIATIONS
+================================================================================
+
+DAB = Dabinette
+YAR = Yarlington Mill
+KIN = Kingston Black
+COX = Cox Orange Pippin
+RIB = Ribston Pippin
+
+================================================================================
+SITE / LAYOUT RULES
+================================================================================
+
+Main orchard:
+- 7 curved rows.
+- Row 7 is the longest row and is on the north / Mora Canal side.
+- Row 1 is the shortest/southern row toward the house/residential allocation.
+- Rows should follow the land/curve naturally.
+- Do not force a perfect rectangle.
+- Keep the canal road/easement open.
+- Planting zone starts 20 ft from the lower toe of the Mora Canal bank.
+- Approximate row spacing target: 16 ft.
+- In-row spacing may vary by actual row length.
+- Label every tree permanently at planting.
+
+Extra tree areas:
+- Extra Row A: approximately 110 ft.
+- Extra Row B: approximately 75 ft.
+
+================================================================================
+PRIORITY LOGIC
+================================================================================
+
+Highest-priority cider cultivars should go in the longest/best rows.
+
+Priority order:
+1. Dabinette
+   - Highest-priority bittersweet cider backbone.
+   - Best candidate to scale later if it performs well.
+
+2. Yarlington Mill
+   - High-priority productive bittersweet/body cultivar.
+   - Also a strong candidate to scale later.
+
+3. Kingston Black
+   - Valuable bittersharp cider cultivar.
+   - Important, but should not dominate the orchard until site performance is proven.
+
+4. Cox Orange Pippin / Ribston Pippin
+   - Aromatic/sharp support cultivars.
+   - Useful, but not the main cider production backbone.
+
+================================================================================
+MAIN 7-ROW ORCHARD LAYOUT
+================================================================================
+
+                 NORTH / MORA CANAL SIDE
+       -------------------------------------------------
+       Keep canal road/easement open.
+       No planting until 20 ft from lower toe of bank.
+       -------------------------------------------------
+
+        Row 7:  DAB  DAB  DAB  DAB  DAB  DAB  DAB  DAB  DAB  DAB
+                10 Dabinette
+                Longest row / highest-priority cultivar
+
+        Row 6:  DAB  DAB  DAB  DAB  DAB  DAB  DAB  DAB  DAB  DAB
+                10 Dabinette
+
+        Row 5:  YAR  YAR  YAR  YAR  YAR  YAR  YAR  YAR  YAR  YAR
+                10 Yarlington Mill
+
+        Row 4:  YAR  YAR  YAR  YAR  YAR  YAR  YAR  YAR  YAR  YAR
+                10 Yarlington Mill
+
+        Row 3:  KIN  KIN  KIN  KIN  KIN  KIN  KIN  KIN  KIN  KIN
+                10 Kingston Black
+
+        Row 2:  KIN  KIN  KIN  KIN  KIN  KIN  KIN  KIN  KIN  KIN
+                10 Kingston Black
+
+        Row 1:  COX  COX  COX  COX  COX  COX  COX
+                7 Cox Orange Pippin
+                Shortest/southern row; keep this row unmixed.
+
+       -------------------------------------------------
+                 SOUTH / HOUSE / RESIDENTIAL SIDE
+
+Main orchard total:
+- DAB: 20
+- YAR: 20
+- KIN: 20
+- COX: 7
+- RIB: 0
+- MAIN ORCHARD TOTAL: 67
+
+================================================================================
+EXTRA SINGLE ROW AREAS
+================================================================================
+
+Extra Row A — approximately 110 ft
+Recommended planting:
+        RIB  RIB  RIB  RIB  RIB  RIB  RIB
+
+Count:
+- 7 Ribston Pippin
+
+Reason:
+- Keeps Row 1 unmixed.
+- Gives Ribston its own simple support row.
+- 7 trees in 110 ft is comfortable and manageable.
+
+Extra Row B — approximately 75 ft
+Recommended planting:
+        COX  COX  COX  RIB  RIB  RIB
+
+Count:
+- 3 Cox Orange Pippin
+- 3 Ribston Pippin
+- 6 total trees
+
+Reason:
+- This is the only mixed row.
+- Six trees in 75 ft is manageable and avoids making the short row too crowded.
+- Uses the remaining Cox and Ribston trees cleanly.
+
+================================================================================
+TOTAL TREE COUNT CHECK
+================================================================================
+
+Main 7-row orchard:
+- DAB: 20
+- YAR: 20
+- KIN: 20
+- COX: 7
+- RIB: 0
+- Total: 67
+
+Extra Row A, 110 ft:
+- RIB: 7
+
+Extra Row B, 75 ft:
+- COX: 3
+- RIB: 3
+
+Grand total:
+- DAB: 20
+- YAR: 20
+- KIN: 20
+- COX: 10
+- RIB: 10
+- TOTAL: 80
+
+================================================================================
+SIMPLE MAP VIEW
+================================================================================
+
+                 NORTH / MORA CANAL SIDE
+
+                 [Canal road / easement / no-plant setback]
+
+        Row 7:   DAB x10     longest row
+        Row 6:   DAB x10
+
+        Row 5:   YAR x10
+        Row 4:   YAR x10
+
+        Row 3:   KIN x10
+        Row 2:   KIN x10
+
+        Row 1:   COX x7      south / house side, unmixed
+
+                 SOUTH / HOUSE SIDE
+
+
+        Extra Row A, 110 ft:  RIB x7
+
+        Extra Row B, 75 ft:   COX x3 + RIB x3
+
+================================================================================
+STAKING METHOD
+================================================================================
+
+1. Mark the lower toe of the Mora Canal bank.
+2. Measure 20 ft from the lower toe into the property.
+3. Flag this as the north no-plant boundary.
+4. Keep the canal road/easement area open.
+5. Stake Row 7 only if it stays fully outside the no-plant zone.
+6. Because Row 7 is the longest/highest-priority row, use it for Dabinette.
+7. Offset rows about 16 ft apart moving southward.
+8. Keep Row 1 as Cox Orange Pippin only.
+9. Put Ribston mostly in the 110 ft extra row.
+10. Put the only Cox/Ribston mixed planting in the 75 ft extra row.
+11. Stake tree positions by walking the curve, not by straight-line measurement.
+12. Leave enough space at row ends for mowing, irrigation service, and equipment movement.
+
+================================================================================
+RECOMMENDED TREE ID FORMAT
+================================================================================
+
+Main orchard:
+- R7-T01-DAB through R7-T10-DAB
+- R6-T01-DAB through R6-T10-DAB
+- R5-T01-YAR through R5-T10-YAR
+- R4-T01-YAR through R4-T10-YAR
+- R3-T01-KIN through R3-T10-KIN
+- R2-T01-KIN through R2-T10-KIN
+- R1-T01-COX through R1-T07-COX
+
+Extra rows:
+- ER-A-T01-RIB through ER-A-T07-RIB
+- ER-B-T01-COX through ER-B-T03-COX
+- ER-B-T04-RIB through ER-B-T06-RIB
+
+================================================================================
+CRITICAL MANAGEMENT NOTE
+================================================================================
+
+This layout prioritizes future production and management simplicity.
+
+It keeps:
+- Dabinette in the longest/highest-priority rows.
+- Yarlington Mill in the next priority rows.
+- Kingston Black in meaningful paired rows.
+- Cox Orange Pippin in one clean row plus part of the short mixed row.
+- Ribston Pippin mostly in one clean extra row.
+- Only one mixed row: the 75 ft extra row.
+
+Do not order more trees just to fill every possible space.
+You can create/graft/propagate more trees later after seeing which cultivars perform best.
+
+The goal is not maximum tree count.
+The goal is a survivable, irrigated, mowable, pruneable, harvestable cider block
+that preserves canal access and does not create unnecessary labor problems.
